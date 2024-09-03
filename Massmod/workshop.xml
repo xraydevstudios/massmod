@@ -8507,7 +8507,7 @@
               <max>1.5</max>
               <distrib>vdLinear</distrib>
             </minTimeLife>
-            <damage>100</damage>
+            <damage>150</damage>
             <model lib="world\db\ctEffects">world\db\root\ctEffects\spark2</model>
           </proj0>
 		  <proj1>
@@ -8524,6 +8524,27 @@
             <mass>100</mass>
             <damage>0</damage>
           </proj1>
+		  <rayproj>
+            <type>13</type>
+            <pos>0.2 0 0</pos>
+            <rot>0 0 0 1</rot>
+            <size>1 0.3 2</size>
+            <sizeAddPx>0 0 -0.3</sizeAddPx>
+            <offset>0 0 0</offset>
+            <modelSize>true</modelSize>
+            <speed>0</speed>
+            <speedRelativeMin>13</speedRelativeMin>
+            <speedRelative>true</speedRelative>
+            <angleSpeed>-4.5</angleSpeed>
+            <maxDist>100</maxDist>
+            <mass>100</mass>
+            <minTimeLife>
+              <min>1</min>
+              <max>1</max>
+              <distrib>vdLinear</distrib>
+            </minTimeLife>
+            <damage>65</damage>
+          </rayproj>
         </projList>
         <shotDelay>0.5</shotDelay>
       </item>

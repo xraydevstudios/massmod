@@ -1416,6 +1416,13 @@
             <forHuman>false</forHuman>
             <sound>Voice\start8.ogg</sound>
           </voice7>
+		  <voice9>
+            <weight>11</weight>
+            <sPlayer>false</sPlayer>
+            <ePlayer>false</ePlayer>
+            <forHuman>false</forHuman>
+            <sound>Voice\start9.ogg</sound>
+          </voice9>
         </voices>
       </raceStartTime2>
       <scButcher>
@@ -1430,6 +1437,13 @@
             <ePlayer>false</ePlayer>
             <forHuman>false</forHuman>
             <sound>Voice\butcher.ogg</sound>
+          </voice0>
+		  <voice0>
+            <weight>0</weight>
+            <sPlayer>false</sPlayer>
+            <ePlayer>false</ePlayer>
+            <forHuman>false</forHuman>
+            <sound>Voice\butcher2.ogg</sound>
           </voice0>
         </voices>
       </scButcher>

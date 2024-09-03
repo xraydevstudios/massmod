@@ -377,59 +377,20 @@
 		</car3>	
 		<car4>
           <record lib="world\db\ctCar">world\db\root\ctCar\manticora</record>
-          <pass>0</pass>
+          <pass>1</pass>
 		</car4>	
 		<car5>
           <record lib="world\db\ctCar">world\db\root\ctCar\tornado</record>
-          <pass>0</pass>
+          <pass>1</pass>
 		</car5>	
 		<car6>
           <record lib="world\db\ctCar">world\db\root\ctCar\airblade</record>
-          <pass>0</pass>
+          <pass>1</pass>
 		</car6>	
 		<car7>
           <record lib="world\db\ctCar">world\db\root\ctCar\airbladeOld</record>
-          <pass>0</pass>
+          <pass>1</pass>
 		</car7>	
-		<car8>
-          <record lib="world\db\ctCar">world\db\root\ctCar\moto</record>
-          <pass>0</pass>
-		</car8>	
-		<car9>
-          <record lib="world\db\ctCar">world\db\root\ctCar\valker</record>
-          <pass>0</pass>
-		</car9>	
-		
-				<car9>
-          <record lib="world\db\ctCar">world\db\root\ctCar\valker</record>
-          <pass>0</pass>
-		</car9>	
-		
-				<car9>
-          <record lib="world\db\ctCar">world\db\root\ctCar\podushka</record>
-          <pass>0</pass>
-		</car9>	
-		
-		
-				<car9>
-          <record lib="world\db\ctCar">world\db\root\ctCar\guseniza</record>
-          <pass>0</pass>
-		</car9>	
-		
-				<car9>
-          <record lib="world\db\ctCar">world\db\root\ctCar\monstertruck</record>
-          <pass>0</pass>
-		</car9>	
-		
-				<car9>
-          <record lib="world\db\ctCar">world\db\root\ctCar\devildriver</record>
-          <pass>0</pass>
-		</car9>	
-		
-				<car9>
-          <record lib="world\db\ctCar">world\db\root\ctCar\SideWinder</record>
-          <pass>0</pass>
-		</car9>	
       </cars>
       <players>
         <player0>
@@ -1098,7 +1059,32 @@
           <pass>0</pass>
         </slots0>
       </slots>
-      <cars />
+      <cars>
+	  	<car4>
+          <record lib="world\db\ctCar">world\db\root\ctCar\manticora</record>
+          <pass>0</pass>
+		</car4>	
+		<car5>
+          <record lib="world\db\ctCar">world\db\root\ctCar\tornado</record>
+          <pass>0</pass>
+		</car5>	
+		<car6>
+          <record lib="world\db\ctCar">world\db\root\ctCar\airblade</record>
+          <pass>0</pass>
+		</car6>	
+		<car7>
+          <record lib="world\db\ctCar">world\db\root\ctCar\airbladeOld</record>
+          <pass>0</pass>
+		</car7>	
+		<car0>
+          <record lib="world\db\ctCar">world\db\root\ctCar\moto</record>
+          <pass>1</pass>
+        </car0>
+		<car0>
+          <record lib="world\db\ctCar">world\db\root\ctCar\valker</record>
+          <pass>1</pass>
+        </car0>
+	  </cars>
       <players>
         <player0>
           <id>1</id>
@@ -1749,7 +1735,23 @@
         </price2>
       </prices>
       <slots></slots>
-      <cars>
+      <cars>	
+	  	<car0>
+          <record lib="world\db\ctCar">world\db\root\ctCar\moto</record>
+          <pass>0</pass>
+        </car0>
+		<car0>
+          <record lib="world\db\ctCar">world\db\root\ctCar\valker</record>
+          <pass>0</pass>
+        </car0>
+		<car0>
+          <record lib="world\db\ctCar">world\db\root\ctCar\guseniza</record>
+          <pass>1</pass>
+        </car0>
+		<car0>
+          <record lib="world\db\ctCar">world\db\root\ctCar\podushka</record>
+          <pass>1</pass>
+        </car0>	
       </cars>
 	  <players>
         <player0>
@@ -2429,16 +2431,16 @@
         </car0>
 		<car0>
           <record lib="world\db\ctCar">world\db\root\ctCar\monstertruck</record>
-          <pass>0</pass>
+          <pass>1</pass>
         </car0>
 		<car0>
           <record lib="world\db\ctCar">world\db\root\ctCar\devildriver</record>
-          <pass>0</pass>
+          <pass>1</pass>
         </car0>
 		<car0>
           <record lib="world\db\ctCar">world\db\root\ctCar\SideWinder</record>
-          <pass>0</pass>
-        </car0>
+          <pass>1</pass>
+        </car0>	
       </cars>
       <players>
         <player0>
@@ -3150,7 +3152,20 @@
         </price2>
       </prices>
       <slots></slots>
-      <cars></cars>
+      <cars>
+	  	<car0>
+          <record lib="world\db\ctCar">world\db\root\ctCar\monstertruck</record>
+          <pass>0</pass>
+        </car0>
+		<car0>
+          <record lib="world\db\ctCar">world\db\root\ctCar\devildriver</record>
+          <pass>0</pass>
+        </car0>
+		<car0>
+          <record lib="world\db\ctCar">world\db\root\ctCar\SideWinder</record>
+          <pass>0</pass>
+        </car0>	
+	  </cars>
       <players>
         <player0>
           <id>1</id>
