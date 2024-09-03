@@ -203,17 +203,11 @@
         <group>1</group>
       </sound12>		
 	  <sound13>
-        <item item="Music\Track27.ogg">world\resManager\soundLib</item>
+        <item item="Music\Track28.ogg">world\resManager\soundLib</item>
         <name>Battletoads RMX</name>
         <band>NES music</band>
         <group>1</group>
-      </sound13>	
-	  <sound14>
-        <item item="Music\Track37.ogg">world\resManager\soundLib</item>
-        <name>1AM</name>
-        <band>The Subways</band>
-        <group>1</group>
-      </sound14>	  
+      </sound13>	  
     </tracks>
   </gameMusic>
   <commentator>
